@@ -1,8 +1,7 @@
 header{
     height: 100vh;
-    padding-top: 1rem;
+    padding-top: 7rem;
     overflow: hidden;
-    margin-bottom: 20rem;
 }
 
 .header__container{
@@ -51,9 +50,7 @@ header{
 
 }
 .me img{
-    margin-top: 6rem;
-    width:100%;
-    
+    margin-top: 8rem;
     
     
     
@@ -70,32 +67,4 @@ header{
     font-size: 0.9rem;
 
 }
-@media (max-width:600px) {
-    .header__socials{
-        font-size: 18px;
-    }
-    .cta{
-        font-size: 0.8rem;
-    }
-    .scroll__down{
-        margin-left: 18rem;
-        font-size: 10px;
-        
-    }
-    .me{
-        width: 15rem;
-        height: 18rem;
-        margin-left: 3rem;
-    }
-    
-}
-@media (max-height:600px){
-      .me img{
-        margin-top: 1rem;
-       
-      }
-      .me{
-        
-      }
-} 
 

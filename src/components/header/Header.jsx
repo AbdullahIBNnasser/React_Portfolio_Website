@@ -8,7 +8,6 @@ import {CgScrollH} from 'react-icons/cg'
 function header() {
   return (
     <header>
-      <section>
       <div className="container header__container">
         <h5>Hello I'm</h5>
         <h1>Mohamed Abdullah</h1>
@@ -24,7 +23,6 @@ function header() {
 
 
       </div>
-      </section>
 
     </header>
   )

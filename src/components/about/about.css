@@ -70,12 +70,6 @@ p{
     }
 }
 @media (max-width: 600px){
-    .about__me-image{margin-left: 25%;}
+    .about__me-image{margin-left: 30%;}
 
-}
-@media(max-height: 550px){
-    .container{
-       
-        
-    }
 }
