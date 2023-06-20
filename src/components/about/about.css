@@ -2,6 +2,7 @@
      
     width: 22rem;
     height: 30rem;
+    border-radius: 3rem;
     
     left: calc(50% - 11rem);
     margin-top: 4rem;
@@ -10,8 +11,10 @@
    
     
 }
-.about__container{
+img{
+    border-radius: 2rem;
 }
+
 
 
 p{
@@ -32,6 +35,7 @@ p{
     .about__me-image{
         width: 12rem;
         margin-left:20rem;
+        border-radius: 5rem;
 
 
     }
